@@ -1,4 +1,4 @@
-
+﻿
 ﻿这是一个文件！？？？？？
 =======
 这是一个文件！
@@ -7,3 +7,4 @@
 ghkj huhgi 
 
 Hello!
+THIS IS A BEAUTIFUL WORLD!
